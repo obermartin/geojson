@@ -48,6 +48,22 @@
           32.11801783708409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "disneyland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91992902755736,
+          33.812475085910116
+        ]
+      }
     }
   ]
 }
