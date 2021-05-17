@@ -87,22 +87,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "parma"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.30517578125,
-          44.809121700077355
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Rom"
       },
       "geometry": {
