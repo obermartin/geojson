@@ -87,22 +87,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Italian Marker"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.480468749999998,
-          42.50450285299051
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "parma"
       },
       "geometry": {
