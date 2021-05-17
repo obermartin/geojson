@@ -48,38 +48,6 @@
           32.11801783708409
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Dings"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.129638671875,
-          48.776102781718585
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Bielefeld"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6077880859375,
-          51.9781134854881
-        ]
-      }
     }
   ]
 }
