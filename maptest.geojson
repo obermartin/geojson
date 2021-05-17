@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Matterhorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65850067138672,
+          45.976446376256575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zugspitze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.985040664672852,
+          47.42088661600601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Raketeneinschlag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.792848229408264,
+          32.11801783708409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.129638671875,
+          48.776102781718585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52490234375,
+          52.27151887966843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9591064453125,
+          51.14834033402119
+        ]
+      }
+    }
+  ]
+}
