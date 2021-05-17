@@ -64,6 +64,22 @@
           33.812475085910116
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mt everest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.92554473876952,
+          27.984548528991695
+        ]
+      }
     }
   ]
 }
