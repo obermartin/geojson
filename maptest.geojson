@@ -67,28 +67,6 @@
     },
     {
       "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.52490234375,
-          52.27151887966843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.9591064453125,
-          51.14834033402119
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
