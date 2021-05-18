@@ -96,22 +96,6 @@
           41.918628865183045
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "zürich"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.558349609375,
-          47.39834920035926
-        ]
-      }
     }
   ]
 }
