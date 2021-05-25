@@ -55,7 +55,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "disneyland"
+        "name": "Disneyland"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mt everest"
+        "name": "Mt Everest"
       },
       "geometry": {
         "type": "Point",
