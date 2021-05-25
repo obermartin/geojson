@@ -112,22 +112,6 @@
           49.84871352416025
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Airbase"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.321800231933594,
-          50.04920295577046
-        ]
-      }
     }
   ]
 }
