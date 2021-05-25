@@ -96,6 +96,22 @@
           41.918628865183045
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Oppenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.369122445583344,
+          49.84871352416025
+        ]
+      }
     }
   ]
 }
