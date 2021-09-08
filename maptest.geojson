@@ -16,6 +16,19 @@
           34.57213264349203
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409113883972166,
+          52.51692597856219
+        ]
+      }
     }
   ]
 }
