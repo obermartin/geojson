@@ -20,13 +20,16 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Berlin"
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BILD HQ"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.409113883972166,
-          52.51692597856219
+          13.397204875946045,
+          52.507657388289765
         ]
       }
     }
