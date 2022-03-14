@@ -4,32 +4,32 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ff0000",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "North Gate"
+        "unit": "T72"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.22291025519371,
-          34.57213264349203
+          30.316772460937496,
+          50.68601788918605
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ffdd00",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "BILD HQ"
+        "unit": "T72"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.397204875946045,
-          52.507657388289765
+          30.445861816406246,
+          50.516919485758045
         ]
       }
     }
