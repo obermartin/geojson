@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "red",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "unit": "tank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.316772460937496,
+          50.68601788918605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "yellow",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "unit": "infantry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445861816406246,
+          50.516919485758045
+        ]
+      }
+    }
+  ]
+}
